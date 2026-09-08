@@ -1,0 +1,14 @@
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.AssemblyInfoInputs.cache
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.AssemblyInfo.cs
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.csproj.CoreCompileInputs.cache
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\bin\Debug\net8.0-windows\DisplaySwitch.exe
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\bin\Debug\net8.0-windows\DisplaySwitch.deps.json
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\bin\Debug\net8.0-windows\DisplaySwitch.runtimeconfig.json
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\bin\Debug\net8.0-windows\DisplaySwitch.dll
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\bin\Debug\net8.0-windows\DisplaySwitch.pdb
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.dll
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\refint\DisplaySwitch.dll
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.pdb
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\DisplaySwitch.genruntimeconfig.cache
+C:\Users\rexto\Documents\Portals\Programas\display\src\DisplaySwitch\obj\Debug\net8.0-windows\ref\DisplaySwitch.dll

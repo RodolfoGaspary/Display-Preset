@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VqFE1T03Hg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rexto\\Documents\\Portals\\Programas\\display\\src\\DisplaySwitch\\DisplaySwitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rexto\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.30\\microsoft.net.illink.tasks.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

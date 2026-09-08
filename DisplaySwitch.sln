@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{865F213C-EA4B-43E7-9831-257FB0D4E636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplaySwitch", "src\DisplaySwitch\DisplaySwitch.csproj", "{B049DBFB-2773-4276-A0C4-470D8CB6E4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B049DBFB-2773-4276-A0C4-470D8CB6E4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B049DBFB-2773-4276-A0C4-470D8CB6E4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B049DBFB-2773-4276-A0C4-470D8CB6E4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B049DBFB-2773-4276-A0C4-470D8CB6E4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B049DBFB-2773-4276-A0C4-470D8CB6E4CE} = {865F213C-EA4B-43E7-9831-257FB0D4E636}
+	EndGlobalSection
+EndGlobal

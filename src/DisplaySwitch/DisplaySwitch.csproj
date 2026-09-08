@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>DisplaySwitch</AssemblyName>
+    <RootNamespace>DisplaySwitch</RootNamespace>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+
+    <!-- Regenerate with: DisplaySwitch.exe icon src\DisplaySwitch\Assets -->
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+
+    <Product>DisplaySwitch</Product>
+    <AssemblyTitle>DisplaySwitch</AssemblyTitle>
+    <Description>One-click switching between saved monitor layouts.</Description>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
